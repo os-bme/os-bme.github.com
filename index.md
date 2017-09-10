@@ -38,13 +38,15 @@ A fentiek alapján (illetve, ha feltételezzük, hogy a 0.2 évet dolgozó hallg
 
 Nyelvtudás
 ========
+
 Jelöld meg, hogy az alábbi nyelvek közül melyikből milyen szinten vagy.
 --------
+
 A megadott nyelvek eredményei:
 
 ![alt text]( surveys/17/pictures/nepszeru-nyelvek.jpg "népszerű nyelvek")
 
-![alt text]( surveys/17/pictures/kevesbe-nepeszeru-nyelvek.jpg "kevésbé népszerű nyelvek")
+![alt text]( surveys/17/pictures/kevesbe-nepszeru-nyelvek.jpg "kevésbé népszerű nyelvek")
 
 Az “egyéb”-et jelölők válaszai:
 

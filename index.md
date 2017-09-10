@@ -15,7 +15,7 @@ Mikor iratkoztál be egyetemre?
 
 Itt érdemes megjegyezni, hogy kérdőív csak a VIK HK facebook oldalán és a BME-VIK 2012-2015-ös csoportokban került megosztásra.
 
-![alt text](surveys/17/pictures/beiratkozas-eve.jgp "Beiratkzoás éve")
+![alt text]( surveys/17/pictures/beiratkozas-eve.jpg "Beiratkzoás éve")
 (191 válasz)
 
 Hány éves munka tapasztalatod van?
@@ -36,25 +36,25 @@ Jelöld meg, hogy az alábbi nyelvek közül melyikből milyen szinten vagy.
 --------
 A megadott nyelvek eredményei:
 
-![alt text]( surveys/17/nepszeru-nyelvek.jpg "népszerű nyelvek")
+![alt text]( surveys/17/pictures/nepszeru-nyelvek.jpg "népszerű nyelvek")
 
-![alt text]( surveys/17/kevesbe-nepeszeru-nyelvek.jpg "kevésbé népszerű nyelvek")
+![alt text]( surveys/17/pictures/kevesbe-nepeszeru-nyelvek.jpg "kevésbé népszerű nyelvek")
 
 Az “egyéb”-et jelölők válaszai:
 
-![alt text]( surveys/17/egyeb-nyelvek.jpg "egyéb nyelvek")
+![alt text]( surveys/17/pictures/egyeb-nyelvek.jpg "egyéb nyelvek")
 
 
 Melyik nyelvet tanulnád meg szívesen?
 --------
-![alt text]( surveys/17/szivesen-tanulando-nyelvek.jpg "Szívesen tanulandó nyelvek")
+![alt text]( surveys/17/pictures/szivesen-tanulando-nyelvek.jpg "Szívesen tanulandó nyelvek")
 (178 válasz)
 
 
 Git tapasztalat
 --------
 
-![alt text]( surveys/17/git-tapasztalat.jpg "Git tapasztalat")
+![alt text]( surveys/17/pictures/git-tapasztalat.jpg "Git tapasztalat")
 (191 válasz)
 
 Látható, hogy a kitöltők nagy részének van már gittel tapasztalata és a majdnem fele nem riad vissza a bonyolultabb dolgoktól sem.
@@ -63,7 +63,7 @@ Látható, hogy a kitöltők nagy részének van már gittel tapasztalata és a 
 OpenSource projektek
 --------
 
-![alt text]( surveys/17/opensource-tapasztalat.jpg "OpenSource projektek")
+![alt text]( surveys/17/pictures/opensource-tapasztalat.jpg "OpenSource projektek")
 (190 válasz)
 
 

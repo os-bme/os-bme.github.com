@@ -7,15 +7,21 @@ Alapvetően azért készült a kérdőív, mert ki szeretnénk építeni egy Ope
 
 A kérdőívet összesen 191-en töltötték ki.
 
-Itt találtok pár nyelvekhez kapcsolódó kérdőívet
+Itt találtok pár szélesebb körű kérdőívet:  
+[backend frameworks - jobsquery.it](https://jobsquery.it/stats/backend-frameworks/group)  
+[insights.stackoverflow.com](https://insights.stackoverflow.com/survey/2017#overview)  
+[language rankinds - redmonk.com](https://redmonk.com/sogrady/2017/03/17/language-rankings-1-17/)
 
+
+És akkor a kérdések és válaszok
+==========
 
 Mikor iratkoztál be egyetemre?
 --------
 
 Itt érdemes megjegyezni, hogy kérdőív csak a VIK HK facebook oldalán és a BME-VIK 2012-2015-ös csoportokban került megosztásra.
 
-![alt text]( surveys/17/pictures/beiratkozas-eve.jpg "Beiratkzoás éve")
+![alt text]( surveys/17/pictures/beiratkozas-eve.jpg "Beiratkzoás éve")  
 (191 válasz)
 
 Hány éves munka tapasztalatod van?
@@ -26,7 +32,7 @@ A fentiek alapján (illetve, ha feltételezzük, hogy a 0.2 évet dolgozó hallg
 
 
 
-![alt text]( surveys/17/pictures/munkatapasztalat.jpg "munkatapasztalat években megadva")
+![alt text]( surveys/17/pictures/munkatapasztalat.jpg "munkatapasztalat években megadva")  
 (190 válasz)
 
 
@@ -47,14 +53,14 @@ Az “egyéb”-et jelölők válaszai:
 
 Melyik nyelvet tanulnád meg szívesen?
 --------
-![alt text]( surveys/17/pictures/szivesen-tanulando-nyelvek.jpg "Szívesen tanulandó nyelvek")
+![alt text]( surveys/17/pictures/szivesen-tanulando-nyelvek.jpg "Szívesen tanulandó nyelvek")  
 (178 válasz)
 
 
 Git tapasztalat
 --------
 
-![alt text]( surveys/17/pictures/git-tapasztalat.jpg "Git tapasztalat")
+![alt text]( surveys/17/pictures/git-tapasztalat.jpg "Git tapasztalat")  
 (191 válasz)
 
 Látható, hogy a kitöltők nagy részének van már gittel tapasztalata és a majdnem fele nem riad vissza a bonyolultabb dolgoktól sem.
@@ -63,7 +69,7 @@ Látható, hogy a kitöltők nagy részének van már gittel tapasztalata és a 
 OpenSource projektek
 --------
 
-![alt text]( surveys/17/pictures/opensource-tapasztalat.jpg "OpenSource projektek")
+![alt text]( surveys/17/pictures/opensource-tapasztalat.jpg "OpenSource projektek")  
 (190 válasz)
 
 
@@ -73,18 +79,19 @@ Látható, hogy van érdeklődés egy OpenSource projekt iránt, de a kitöltők
 Milyen szinten vennél részt egy most induló OpenSource projektben?
 --------
 
-![alt text]( surveys/17/opensource-affinitas.jpg "OpenSource projektekhet érdeklődés")
+![alt text]( surveys/17/pictures/opensource-affinitas.jpg "OpenSource projektekhet érdeklődés")  
 (169 válasz)
 
 
 
-Mint minden statisztikát, ezt is érdemes fenntartásokkal kezelni. Nem érdemes ebből egy általános képet levonni, hiszen a hallgatók csekély része töltötte csak ki. 
-A kérdőív elsődleges célja egy OpenSource projekt iránti érdeklődés felmérése. A fentiekből levonható, hogy van érdeklődés.
-A másodlagos cél egy ilyen induló projekt nyelvének a kiválasztása. A válaszok alapján a JavaScript, Python, Java, PHP és C# lehettek versenyben. A PHP-t azért zárható ki, mert sokan nem ismerik (3.kép) és affinitás sem nagyon van rá, hogy megismerjék (6.kép), így viszont nehéz bevonni a közösséget a fejlesztésbe. 
+Mint minden statisztikát, ezt is érdemes fenntartásokkal kezelni. Nem érdemes ebből egy általános képet levonni, hiszen a hallgatók csekély része töltötte csak ki.  
+A kérdőív elsődleges célja egy OpenSource projekt iránti érdeklődés felmérése. A fentiekből levonható, hogy van érdeklődés.  
+A másodlagos cél egy ilyen induló projekt nyelvének a kiválasztása. A válaszok alapján a JavaScript, Python, Java, PHP és C# lehettek versenyben. A PHP-t azért zárható ki, mert sokan nem ismerik (3.kép) és affinitás sem nagyon van rá, hogy megismerjék (6.kép), így viszont nehéz bevonni a közösséget a fejlesztésbe.   
 A Java-t és a C#-ot azért, mert szerver oldalon kicsit talán nehézkesebb ezeket üzemelni, Illetve ezek forduló nyelvek ami (bár keveset, de) szintén okozhat némi problémát. 
+
 Marad a Python és a JavaScript. A JavaScript ismerői közül több a junior és tapasztalt szintű mint a Pythonnál, talán érdemesebb ezt választani.
 
 
 
-A kiértékeléshez használt doksit, benne az válaszokkal(email címek nélkül), [itt találjátok](surveys/17/language-stats.xlsx)
+A kiértékeléshez használt doksit, benne az eredeti válaszokkal, [itt találjátok](surveys/17/language-stats.xlsx)
 ----------

@@ -95,5 +95,5 @@ Marad a Python és a JavaScript. A JavaScript ismerői közül több a junior é
 
 
 
-A kiértékeléshez használt doksit, benne az eredeti válaszokkal, [itt találjátok](surveys/17/language-stats.xlsx)
+A kiértékeléshez használt doksit, benne az eredeti válaszokkal, [itt találjátok](surveys/17/languages_stat.xlsx)
 ----------

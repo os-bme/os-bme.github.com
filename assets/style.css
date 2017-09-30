@@ -1,0 +1,16 @@
+.post .meta {
+  font-size: 0.8em;
+  color: #888;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+div.custom-post-share-buttons a {
+  margin-right: 10px;
+  padding: 5px;
+  font-family: "PT mono", sans-serif;
+  color: rgba(119, 102, 90, 0.72);
+  text-decoration: none;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}

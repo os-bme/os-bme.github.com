@@ -14,3 +14,10 @@ div.custom-post-share-buttons a {
   background-color: #f0f0f0;
   border-radius: 5px;
 }
+
+.post h2 a{
+    margin-bottom: 8px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #303030;
+}

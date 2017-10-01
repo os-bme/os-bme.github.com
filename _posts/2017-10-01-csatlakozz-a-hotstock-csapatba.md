@@ -14,6 +14,6 @@ JavaScript fejlesztőket keresünk a most induló OpenSource projektünkbe. Ha i
 A github repo [itt érhető el](https://github.com/os-bme/hotstock).
 
 Ha még nem találtál **önlab témá**t, el tudod számolni a munkádat az AUT-on.
-[Itt olvashatjátok a téma kiírást.](https://www.aut.bme.hu/Task/17-18-osz/MEAN-azaz-MondoDB-Express)
+[Itt olvasható a téma kiírás.](https://www.aut.bme.hu/Task/17-18-osz/MEAN-azaz-MondoDB-Express)
 
 Az érdeklődök [ezen a formon](https://docs.google.com/forms/d/e/1FAIpQLSclD1RNPl62WDYpChGt-wNbsTJtaHkiUFYT8oVWr1Y-Yv59iw/viewform?usp=sf_link) **jelentkez**hetnek.
